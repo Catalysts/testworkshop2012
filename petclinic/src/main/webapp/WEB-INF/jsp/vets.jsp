@@ -1,7 +1,7 @@
 <%@ include file="/WEB-INF/jsp/includes.jsp" %>
 <%@ include file="/WEB-INF/jsp/header.jsp" %>
 
-<h2>Veterinarians:</h2>
+<h2 id="vetsHeader">Veterinarians:</h2>
 
 <table>
   <thead>
